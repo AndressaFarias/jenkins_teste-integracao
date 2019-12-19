@@ -2,8 +2,9 @@
 public class Hello {
 
 	public static void main(String[] args) {
-		System.out.println("Teste de Integração com o Jenkins");
-		System.out.println("Hello DEV");
+		System.out.println("Teste de Integraï¿½ï¿½o com o Jenkins");
+		//System.out.println("Hello DEV");
+		System.out.println("Hello Homolog");
 
 	}
 
